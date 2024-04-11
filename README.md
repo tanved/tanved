@@ -15,8 +15,8 @@
 
   </p>
 <div align="center">
-<img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=ndt2804&show_icons=true&theme=dracula" alt="ndt2804 :: Profile Stats" />
-<img align="right" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndt2804&langs_count=10&layout=compact" alt="ndt2804 :: Top Langs" />
+<img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=tanved&show_icons=true&theme=dracula" alt="tanved :: Profile Stats" />
+<img align="right" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanved&langs_count=10&layout=compact" alt="tanved :: Top Langs" />
 </div>
 
 
